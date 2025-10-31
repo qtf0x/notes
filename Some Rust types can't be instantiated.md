@@ -4,4 +4,4 @@ tags:
   - Rust
   - types
 ---
-In most typed languages, 
+In most typed languages, values have types and any value can be assigned to a variable

@@ -21,5 +21,8 @@
     "editor:unindent-list",
     "editor:configure-toolbar",
     "editor:insert-codeblock"
-  ]
+  ],
+  "vimMode": true,
+  "readableLineLength": false,
+  "propertiesInDocument": "visible"
 }
