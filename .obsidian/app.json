@@ -23,6 +23,6 @@
     "editor:insert-codeblock"
   ],
   "vimMode": true,
-  "readableLineLength": false,
+  "readableLineLength": true,
   "propertiesInDocument": "visible"
 }

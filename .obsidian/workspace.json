@@ -4,25 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "cbe9088f98ab8fc9",
+        "id": "752b5d59fcf2f0cc",
         "type": "tabs",
         "children": [
           {
-            "id": "23cc94d6803aaedf",
+            "id": "e67e8168fb1e1d3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calling main() at the end of a Python script.md",
+                "file": "Some Rust types can't be instantiated.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Calling main() at the end of a Python script"
+              "title": "Some Rust types can't be instantiated"
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,10 +181,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "23cc94d6803aaedf",
+  "active": "e67e8168fb1e1d3a",
   "lastOpenFiles": [
-    "Some Rust types can't be instantiated.md",
     "Calling main() at the end of a Python script.md",
+    "Some Rust types can't be instantiated.md",
     "Untitled.canvas",
     "Call a `main()` function at the end of a Python file.md",
     "Test.md"

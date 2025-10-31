@@ -1,4 +1,5 @@
 {
-  "textFontFamily": "Iosevka Etoile",
-  "monospaceFontFamily": "Iosevka Fixed"
+  "textFontFamily": "Iosevka Aile",
+  "monospaceFontFamily": "Iosevka Fixed",
+  "baseFontSizeAction": true
 }
