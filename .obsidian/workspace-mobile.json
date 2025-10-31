@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Call a `main()` function at the end of a Python file.md",
+                "file": "Calling`main()` at the end of a Python script.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Call a `main()` function at the end of a Python file"
+              "title": "Calling`main()` at the end of a Python script"
             }
           }
         ]
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Call a `main()` function at the end of a Python file.md",
+            "file": "Call a `main()` function at the end of a Python script.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -154,9 +154,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "5f3db83d56737a5a",
+  "active": "1ebdcfb33873b4ae",
   "lastOpenFiles": [
+    "References",
     "interpreted.md",
-    "Call a `main()` function at the end of a Python file.md"
+    "Calling`main()` at the end of a Python script.md"
   ]
 }

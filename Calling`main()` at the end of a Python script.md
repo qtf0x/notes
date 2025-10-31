@@ -1,6 +1,8 @@
 ---
 tags:
   - Python
+  - programming
+  - scripting
 ---
 As an interpreted scripting language, Python doesn’t have the equivalent of a standard entrypoint function, often called `main()` in compiled languages. The Python interpreter simply executes statements in order.
 
