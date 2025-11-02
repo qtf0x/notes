@@ -1,0 +1,29 @@
+- [ ] Memory ordering
+- [ ] Atomic operations
+- [ ] Bounding volume hierarchy (BVH)
+- [ ] Euler angles vs quaternions
+- [ ] Types of casts in C++
+- [ ] How to invert a binary tree
+- [ ] Levels of database normalization
+- [ ] How email works
+- [ ] Octrees
+- [ ] Model view controller (MVC)
+- [ ] Entity component systems (ECS)
+- [ ] Git rebase
+- [ ] How `<math.h>` functions are implemented (sin, cos, etc.)
+- [ ] Types of FP errors
+- [ ] Arbitrary-precision integers
+- [ ] Barycentric coordinates
+- [ ] B-trees
+- [ ] Tries
+- [ ] Fluid sim differential eqns
+- [ ] Binary arithmetic
+- [ ] Color spaces and HDR
+- [ ] SOLID principles
+- [ ] Page table traversal
+- [ ] REST APIs
+- [ ] Radix sort
+- [ ] Sed/awk/grep
+- [ ] SIMD (assembler and intrinsics)
+- [ ] UTF-8
+- [ ] SPIR-V and PTX
