@@ -169,8 +169,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "22c22d157da77e67",
+  "active": "1ebdcfb33873b4ae",
   "lastOpenFiles": [
+    "Why does the str type exist in Rust?.md",
     "Some Rust types can't be instantiated.md",
     "Things I should know (but don’t).md",
     "References",
