@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Some Rust types can't be instantiated.md",
+                "file": "Why does the str type exist in Rust?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Some Rust types can't be instantiated"
+              "title": "Why does the str type exist in Rust?"
             }
           }
         ]
@@ -184,7 +184,7 @@
   "active": "e67e8168fb1e1d3a",
   "lastOpenFiles": [
     "Calling main() at the end of a Python script.md",
-    "Some Rust types can't be instantiated.md",
+    "Why does the str type exist in Rust?.md",
     "Untitled.canvas",
     "Call a `main()` function at the end of a Python file.md",
     "Test.md"
