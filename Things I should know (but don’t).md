@@ -31,5 +31,5 @@
 - [ ] Strict aliasing
 - [ ] Runtime type information (RTTI)
 - [ ] Compiler elision
-- [x] Small string optimization [[Small string optimization]]
+- [x] [[Small string optimization]]
 - [ ] How to use `grep` and `find` properly
