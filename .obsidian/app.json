@@ -24,5 +24,6 @@
   ],
   "vimMode": true,
   "readableLineLength": true,
-  "propertiesInDocument": "visible"
+  "propertiesInDocument": "visible",
+  "alwaysUpdateLinks": true
 }

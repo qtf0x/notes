@@ -55,16 +55,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python floor division does not truncate.md",
+                "file": "Iterable unpacking in Python.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Python floor division does not truncate"
+              "title": "Iterable unpacking in Python"
+            }
+          },
+          {
+            "id": "13386bcc427fe8c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Things I should know (but don’t).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Things I should know (but don’t)"
+            }
+          },
+          {
+            "id": "1ff39c972e48bcf3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Small string optimization.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Small string optimization"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -223,12 +251,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "03a660e9e5284d17",
+  "active": "1ff39c972e48bcf3",
   "lastOpenFiles": [
     "Things I should know (but don’t).md",
-    "Arithmetic vs logical shifts.md",
+    "Small string optimization.md",
+    "Access the clipboard from the command line on Linux.md",
     "Python floor division does not truncate.md",
+    "Getting Python identifiers as strings at runtime.md",
     "Iterable unpacking in Python.md",
+    "Python lists are dynamic arrays of references.md",
+    "Reverse a list in Python.md",
+    "Lisp cons cells hold pointers.md",
+    "Arithmetic vs logical shifts.md",
     "Why does the str type exist in Rust?.md",
     "Calling main() at the end of a Python script.md",
     "Untitled.canvas",

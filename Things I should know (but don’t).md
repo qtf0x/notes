@@ -27,3 +27,9 @@
 - [ ] SIMD (assembler and intrinsics)
 - [ ] UTF-8
 - [ ] SPIR-V and PTX
+- [ ] Reference counting
+- [ ] Strict aliasing
+- [ ] Runtime type information (RTTI)
+- [ ] Compiler elision
+- [x] Small string optimization [[Small string optimization]]
+- [ ] How to use `grep` and `find` properly
