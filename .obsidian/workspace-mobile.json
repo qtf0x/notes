@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Things I should know (but don’t).md",
+                "file": "Arithmetic vs logical shifts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Things I should know (but don’t)"
+              "title": "Arithmetic vs logical shifts"
             }
           }
         ],
@@ -169,11 +169,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "1ebdcfb33873b4ae",
+  "active": "22c22d157da77e67",
   "lastOpenFiles": [
+    "Things I should know (but don’t).md",
+    "Arithmetic vs logical shifts.md",
+    "Python floor division does not truncate.md",
+    "Iterable unpacking in Python.md",
     "Why does the str type exist in Rust?.md",
     "Some Rust types can't be instantiated.md",
-    "Things I should know (but don’t).md",
     "References",
     "interpreted.md",
     "Calling`main()` at the end of a Python script.md"
