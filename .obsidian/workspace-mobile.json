@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Getting Python identifiers as strings at runtime.md",
+                "file": "Things I should know (but don’t).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Getting Python identifiers as strings at runtime"
+              "title": "Things I should know (but don’t)"
             }
           }
         ],
@@ -171,6 +171,7 @@
   },
   "active": "22c22d157da77e67",
   "lastOpenFiles": [
+    "Getting Python identifiers as strings at runtime.md",
     "Reverse a list in Python.md",
     "Python floor division does not truncate.md",
     "Lisp cons cells hold pointers.md",
@@ -178,7 +179,6 @@
     "Things I should know (but don’t).md",
     "Why does the str type exist in Rust?.md",
     "Arithmetic vs logical shifts.md",
-    "Getting Python identifiers as strings at runtime.md",
     "Access the clipboard from the command line on Linux.md",
     "Python lists are dynamic arrays of references.md",
     "Iterable unpacking in Python.md",
