@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arithmetic vs logical shifts.md",
+                "file": "Getting Python identifiers as strings at runtime.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arithmetic vs logical shifts"
+              "title": "Getting Python identifiers as strings at runtime"
             }
           }
         ],
@@ -113,7 +113,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Call a `main()` function at the end of a Python script.md",
+            "file": "Getting Python identifiers as strings at runtime.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -171,11 +171,17 @@
   },
   "active": "22c22d157da77e67",
   "lastOpenFiles": [
-    "Things I should know (but don’t).md",
-    "Arithmetic vs logical shifts.md",
+    "Reverse a list in Python.md",
     "Python floor division does not truncate.md",
-    "Iterable unpacking in Python.md",
+    "Lisp cons cells hold pointers.md",
+    "Small string optimization.md",
+    "Things I should know (but don’t).md",
     "Why does the str type exist in Rust?.md",
+    "Arithmetic vs logical shifts.md",
+    "Getting Python identifiers as strings at runtime.md",
+    "Access the clipboard from the command line on Linux.md",
+    "Python lists are dynamic arrays of references.md",
+    "Iterable unpacking in Python.md",
     "Some Rust types can't be instantiated.md",
     "References",
     "interpreted.md",
