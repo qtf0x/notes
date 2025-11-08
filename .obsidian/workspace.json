@@ -8,91 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e67e8168fb1e1d3a",
+            "id": "eb2e7d88620ad9b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Why does the str type exist in Rust?.md",
+                "file": "Git objects.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Why does the str type exist in Rust?"
-            }
-          },
-          {
-            "id": "5a81f252cab57ab8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Iterable unpacking in Python.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Iterable unpacking in Python"
-            }
-          },
-          {
-            "id": "5c082d5ef66351eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arithmetic vs logical shifts.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Arithmetic vs logical shifts"
-            }
-          },
-          {
-            "id": "f00ff3c3bc1b19c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Iterable unpacking in Python.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Iterable unpacking in Python"
-            }
-          },
-          {
-            "id": "13386bcc427fe8c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Things I should know (but don’t).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Things I should know (but don’t)"
-            }
-          },
-          {
-            "id": "1ff39c972e48bcf3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Small string optimization.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Small string optimization"
+              "title": "Git objects"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -251,17 +180,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1ff39c972e48bcf3",
+  "active": "eb2e7d88620ad9b9",
   "lastOpenFiles": [
-    "Things I should know (but don’t).md",
+    "Git branches.md",
+    "Git objects.md",
+    "Redirecting command output.md",
+    "Shell environment variables.md",
+    "Linux filesystem permissions.md",
     "Small string optimization.md",
+    "Lisp cons cells hold pointers.md",
+    "Things I should know (but don’t).md",
     "Access the clipboard from the command line on Linux.md",
     "Python floor division does not truncate.md",
     "Getting Python identifiers as strings at runtime.md",
     "Iterable unpacking in Python.md",
     "Python lists are dynamic arrays of references.md",
     "Reverse a list in Python.md",
-    "Lisp cons cells hold pointers.md",
     "Arithmetic vs logical shifts.md",
     "Why does the str type exist in Rust?.md",
     "Calling main() at the end of a Python script.md",
