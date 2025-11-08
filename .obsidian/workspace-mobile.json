@@ -64,7 +64,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:reflectio",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -101,7 +101,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "08dc541aa402fbfb",
@@ -169,16 +169,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "22c22d157da77e67",
+  "active": "52563adca1cb067a",
   "lastOpenFiles": [
+    "Linux filesystem permissions.md",
+    "Git branches.md",
+    "Git objects.md",
+    "Things I should know (but don’t).md",
+    "Redirecting command output.md",
+    "Shell environment variables.md",
+    "Getting Python identifiers as strings at runtime.md",
     "Reverse a list in Python.md",
     "Python floor division does not truncate.md",
     "Lisp cons cells hold pointers.md",
     "Small string optimization.md",
-    "Things I should know (but don’t).md",
     "Why does the str type exist in Rust?.md",
     "Arithmetic vs logical shifts.md",
-    "Getting Python identifiers as strings at runtime.md",
     "Access the clipboard from the command line on Linux.md",
     "Python lists are dynamic arrays of references.md",
     "Iterable unpacking in Python.md",

@@ -2,7 +2,7 @@
 tags:
   - Python
   - programming
-  - inspection
+  - reflection
 ---
 We can use `locals()` or `globals()` to get a dictionary mapping all identifiers (as strings) to values, from the local or global scope, respectively.
 
