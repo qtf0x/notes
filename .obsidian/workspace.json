@@ -34,9 +34,37 @@
               "icon": "lucide-file",
               "title": "Git merge vs rebase"
             }
+          },
+          {
+            "id": "081a9f0bd8421df6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git remotes can be any other repo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git remotes can be any other repo"
+            }
+          },
+          {
+            "id": "0abfe574cade7920",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gitignore.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gitignore"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -195,10 +223,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c2106b0ffa58923d",
+  "active": "0abfe574cade7920",
   "lastOpenFiles": [
-    "Git branches.md",
+    "Git remotes can be any other repo.md",
+    "Gitignore.md",
     "Git merge vs rebase.md",
+    "Git branches.md",
     "Things I should know (but don’t).md",
     "Git objects.md",
     "Redirecting command output.md",
