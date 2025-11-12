@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "Nothing in Git is lost forever"
             }
+          },
+          {
+            "id": "ed05e28dcbf4f79a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git merge conflicts are easy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git merge conflicts are easy"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -223,11 +237,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0abfe574cade7920",
+  "active": "ed05e28dcbf4f79a",
   "lastOpenFiles": [
+    "Nothing in Git is lost forever.md",
+    "Git merge conflicts are easy.md",
     "Git remotes can be any other repo.md",
     "Git branches.md",
-    "Nothing in Git is lost forever.md",
     "Gitignore.md",
     "Git merge vs rebase.md",
     "Things I should know (but don’t).md",
