@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Getting Python identifiers as strings at runtime.md",
+                "file": "Lisp cons cells hold pointers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Getting Python identifiers as strings at runtime"
+              "title": "Lisp cons cells hold pointers"
             }
           }
         ],
@@ -64,7 +64,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:reflectio",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -101,7 +101,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "08dc541aa402fbfb",
@@ -169,15 +169,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "52563adca1cb067a",
+  "active": "22c22d157da77e67",
   "lastOpenFiles": [
+    "Getting Python identifiers as strings at runtime.md",
+    "Git merge vs rebase.md",
     "Linux filesystem permissions.md",
     "Git branches.md",
     "Git objects.md",
     "Things I should know (but don’t).md",
     "Redirecting command output.md",
     "Shell environment variables.md",
-    "Getting Python identifiers as strings at runtime.md",
     "Reverse a list in Python.md",
     "Python floor division does not truncate.md",
     "Lisp cons cells hold pointers.md",
