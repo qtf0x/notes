@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gitignore.md",
+                "file": "Nothing in Git is lost forever.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gitignore"
+              "title": "Nothing in Git is lost forever"
             }
           }
         ],
@@ -226,9 +226,10 @@
   "active": "0abfe574cade7920",
   "lastOpenFiles": [
     "Git remotes can be any other repo.md",
+    "Git branches.md",
+    "Nothing in Git is lost forever.md",
     "Gitignore.md",
     "Git merge vs rebase.md",
-    "Git branches.md",
     "Things I should know (but don’t).md",
     "Git objects.md",
     "Redirecting command output.md",
