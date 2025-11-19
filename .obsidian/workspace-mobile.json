@@ -25,14 +25,10 @@
             "id": "22c22d157da77e67",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lisp cons cells hold pointers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lisp cons cells hold pointers"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -171,6 +167,9 @@
   },
   "active": "22c22d157da77e67",
   "lastOpenFiles": [
+    "Arithmetic vs logical shifts.md",
+    "Nothing in Git is lost forever.md",
+    "Lisp cons cells hold pointers.md",
     "Getting Python identifiers as strings at runtime.md",
     "Git merge vs rebase.md",
     "Linux filesystem permissions.md",
@@ -181,10 +180,8 @@
     "Shell environment variables.md",
     "Reverse a list in Python.md",
     "Python floor division does not truncate.md",
-    "Lisp cons cells hold pointers.md",
     "Small string optimization.md",
     "Why does the str type exist in Rust?.md",
-    "Arithmetic vs logical shifts.md",
     "Access the clipboard from the command line on Linux.md",
     "Python lists are dynamic arrays of references.md",
     "Iterable unpacking in Python.md",
