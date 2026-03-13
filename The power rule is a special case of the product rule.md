@@ -11,7 +11,7 @@ When we teach students to "bring the exponent down, subtract one from it," the *
 ## A simple visual proof of the product rule
 
 ![The product rule](Images/product-rule.jpg "A visual representation of the product rule.")
-
+$\newcommand{\dd}{\operatorname{d}}$
 That's it. In one video frame, Grant Sanderson does what my calculus professors failed to. The product of two functions $g\left(x\right)$ and $h\left(x\right)$ can be thought of as the rectangular area whose side lengths are the function values. A small increase in $x$, $\dd x$, results in small increases to the function values, and thus the side lengths, which we can write as $\dd g$ and $\dd h$.
 
 The question we want to answer is how the product function $f\left(x\right) = g\left(x\right) h\left(x\right)$ changes per unit change in $x$: the **derivative** of $f$ with respect to $x$. We can rephrase that question now as asking how the area of the above rectangle changes for small changes in $x$.
