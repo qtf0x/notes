@@ -9,7 +9,7 @@
 - [ ] Octrees
 - [ ] Model view controller (MVC)
 - [ ] Entity component systems (ECS)
-- [ ] Git rebase
+- [x] [[Git merge vs rebase]]
 - [ ] How `<math.h>` functions are implemented (sin, cos, etc.)
 - [ ] Types of FP errors
 - [ ] Arbitrary-precision integers
@@ -23,7 +23,7 @@
 - [ ] Page table traversal
 - [ ] REST APIs
 - [ ] Radix sort
-- [ ] Sed/awk/grep
+- [ ] Sed/awk/grep/find
 - [ ] SIMD (assembler and intrinsics)
 - [ ] UTF-8
 - [ ] SPIR-V and PTX
@@ -32,5 +32,7 @@
 - [ ] Runtime type information (RTTI)
 - [ ] Compiler elision
 - [x] [[Small string optimization]]
-- [ ] How to use `grep` and `find` properly
 - [ ] Iterators
+- [ ] Inductive, deductive, etc. reasoning/logic
+- [ ] Bloom filters
+- [ ] Arena allocators
